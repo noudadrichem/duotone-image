@@ -1,6 +1,6 @@
 # Create duotone images
 
-> This is a first attempt, I really appriciate feedback!
+> This is a first attempt, I really appreciate feedback!
 
 
 [Demo website](https://werk.noudadrichem.com/trainingen/duotone-image/)
