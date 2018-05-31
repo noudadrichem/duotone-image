@@ -1,6 +1,6 @@
 {
   "name": "duotone-image",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Create duotone images with a simple function",
   "main": "./lib/index.js",
   "module": "./lib/index.m.js",
