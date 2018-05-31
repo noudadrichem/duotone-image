@@ -1,0 +1,30 @@
+{
+  "name": "duotone-image",
+  "version": "0.0.1",
+  "description": "Create duotone images with a simple function",
+  "main": "./lib/index.js",
+  "module": "./lib/index.m.js",
+  "author": "Noud Adrichem <info@noudadrichem.com> (https://noudadrichem.com)",
+  "scripts": {
+    "build": "microbundle -o './lib/index.js'",
+    "prepublish": "npm run build"
+  },
+  "keywords": [
+    "duotone",
+    "image",
+    "css",
+    "svg"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/noudadrichem/duotone-image"
+  },
+  "devDependencies": {
+    "microbundle": "^0.2.4"
+  },
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1"
+  }
+}
