@@ -2,7 +2,9 @@
 
 > This is a first attempt, I really appriciate feedback!
 
-> [Demo]: https://werk.noudadrichem.com/trainingen/duotone-image/
+
+[Demo website](https://werk.noudadrichem.com/trainingen/duotone-image/)
+
 
 ### Preview
 ![screen shot 2018-05-31 at 17 46 11](https://user-images.githubusercontent.com/16288476/40792791-15351b50-64fb-11e8-95a7-29677ea862f1.png)
