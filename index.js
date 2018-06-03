@@ -50,8 +50,8 @@ function makeDuoToneImage({ domNode, color1, color2, imageWidth, imageHeight, im
               <feColorMatrix type="matrix" values="${duoToneString}"/>
             </filter>
           </defs>
-          <image filter="url(#${rarararaaaandommmmm})" xlink:href="${imageUrl}"/>
-        </svg> 
+          <image filter="url(#${rarararaaaandommmmm})" width="${width}" height="${height}" xlink:href="${imageUrl}"/>
+        </svg>
       `
 
       const slidingTagLiAfterStyle = document.createElement("style");
@@ -65,10 +65,6 @@ function makeDuoToneImage({ domNode, color1, color2, imageWidth, imageHeight, im
           color-interpolation-filters: sRGB;
           width: 100%;
           height: 100%;
-        }
-
-        ${domNode} svg image {
-          width: 100%;
         }
       `
 

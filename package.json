@@ -1,6 +1,6 @@
 {
   "name": "duotone-image",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "description": "Create duotone images with a simple function",
   "main": "./lib/index.js",
   "module": "./lib/index.m.js",
@@ -22,9 +22,5 @@
   },
   "devDependencies": {
     "microbundle": "^0.2.4"
-  },
-  "dependencies": {
-    "babel-preset-es2015": "^6.24.1",
-    "babel-preset-stage-2": "^6.24.1"
   }
 }
